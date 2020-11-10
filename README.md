@@ -4,9 +4,17 @@ My name is Ricardo Cardoso, you can call me Rick.
 
 ### Some Stats
 
-<div style="display:flex">
-  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickCardoso&layout=compact&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)</div>
-  <div>[![RickCardoso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)</div>
+<div style="display: flex; margin: 15px -7px;">
+  <div style="padding: 0 7px;">
+    <a href="https://github.com/RickCardoso/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickCardoso&layout=compact&theme=jolly" alt="Top Langs" />
+    </a>
+  </div>
+  <div style="padding: 0 7px;">
+    <a href="https://github.com/RickCardoso/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly" alt="RickCardoso's GitHub Stats" />
+    </a>
+  </div>
 </div>
 
 ### Who Am I
