@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**RickCardoso/RickCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ricardo Cardoso, you can call me Rick.
+
+### Some Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickCardoso&layout=compact&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)
+
+[![RickCardoso's github stats](https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)
+
+
+### Who Am I
+
+I'm a software engineer who loves knowing the business and the clients' pains. I enjoy thinking about the user experience from beggining to end. You could say I'm a product-minded engineer or a UX engineer.
+
+I'll question the purpose of the code, the reasons why we're choosing some strategy. Good code is clean code, but good products solve problems.
+
+### What Else
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Stone Co. as a Product Manager
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on personal projects
+- 💬 Ask me about anything really, I'm not the type to beat around the bushes
+- 📫 How to reach me: email
+- 😄 Pronouns: he, him
+- ⚡ Fun fact: I'm a young (31 yo) father of a 5 year old girl, a 10 year old male dog and a 8 year old female dog (as of 2020)
