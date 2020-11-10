@@ -6,7 +6,7 @@ My name is Ricardo Cardoso, you can call me Rick.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RickCardoso&layout=compact&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)
 
-[![RickCardoso's github stats](https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly)](https://github.com/RickCardoso/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly" alt="RickCardoso's GitHub Stats" />
 
 
 ### Who Am I
