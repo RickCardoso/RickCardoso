@@ -15,10 +15,10 @@ I'll question the purpose of the code, the reasons why we're choosing some strat
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Stone Co. as a Product Manager
+- 🔭 I’m currently working at Loft as a Software Engineer
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on personal projects
-- 💬 Ask me about anything really, I'm not the type to beat around the bushes
+- 💬 Ask me about anything, I'm not the type to beat around the bushes
 - 📫 How to reach me: email
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: I'm a young (31 yo) father of a 5 year old girl, a 10 year old male dog and a 8 year old female dog (as of 2020)
