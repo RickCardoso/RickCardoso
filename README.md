@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I'm not the type to beat around the bushes
 - 📫 How to reach me: email
 - 😄 Pronouns: he, him
-- ⚡ Fun fact: I'm a young (31 yo) father of a 5 year old girl, a 10 year old male dog and a 8 year old female dog (as of 2020)
+- ⚡ Fun fact: born in 1989 (you do the math), father of a girl and a bunch of dogs
