@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickCardoso&layout=compact&theme=jolly" alt="Top Langs" align="right" style="margin-bottom:2em;margin-left:2em;" />
-<img src="https://github-readme-stats.vercel.app/api?username=RickCardoso&theme=jolly" alt="RickCardoso's GitHub Stats" align="right" style="margin-bottom:2em;margin-left:2em;" />
-
 My name is Ricardo Cardoso, you can call me Rick.
 
 ### Who Am I
